@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/42-docker-final
+module github.com/featsci/42-docker-final-sprint11
 
 go 1.22.0
 
